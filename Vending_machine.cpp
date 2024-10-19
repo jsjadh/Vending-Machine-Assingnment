@@ -5,7 +5,7 @@ using namespace std;
 int main() 
 {
     int category,product,quantity,condition;
-    double Total_Bill=0.0,user_money=0.0,pay=0.0;
+    double Total_Bill=0.0,user_money=0.0;
     string order;
     cout << "*****************************************" << endl;
     cout << "*            VENDING MACHINE            *" << endl;
